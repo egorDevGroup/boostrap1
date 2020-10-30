@@ -1,0 +1,34 @@
+.text-green{
+    color: green;
+
+}
+
+
+.landing-photo{
+
+    width: 100vw;
+    height: 95wh;
+    background-image: url("img/img.png");
+}
+
+.center-label{
+    text-align: center;
+    
+}
+
+@media screen and (max-width: 576px){
+    div.text-light:nth-child(3){
+        color: red;
+    }
+}
+
+body{
+    
+}
+
+.w100{
+    /* width: 100vh; */
+    height: 100vh;
+
+}
+
