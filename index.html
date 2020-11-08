@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <script src="js/bootstrap.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
-
+    <script  src="index.js"></script>
 
 </head>
 <body class="w100">
@@ -59,7 +59,7 @@
         </button>
     </nav>
 
-    <div class="container-fluid">
+<!--    <div class="container-fluid">
         <div class="row">
             <div class="col-12 col-xs-12 col-sm-6 col-md-4 col-lg-2">1</div>
             <div class="col-12 col-xs-12 col-sm-6 col-md-4 col-lg-2">2</div>
@@ -68,6 +68,29 @@
             <div class="col-12 col-xs-12 col-sm-6 col-md-4 col-lg-2">5</div>
             <div class="col-12 col-xs-12 col-sm-6 col-md-4 col-lg-2">6</div>
         </div>
+    </div>-->
+    <div class="callback w-100 h-50 p-4">
+        <div id="response">
+
+        </div>
+
+        <div class="input-group w-50 mb-4">
+            <div class="input-group-prepend">
+                <span class="input-group-text" >Name</span>
+            </div>
+            <input class='form-control' type="tel" id="name" placeholder="Name">
+        </div>
+        <div class="input-group w-50">
+            <div class="input-group-prepend">
+                <span class="input-group-text">Tel</span>
+            </div>
+            <input class='form-control' type="tel" id='tel' placeholder="Phone">
+        </div>
+        <button class="btn btn-outline-success mt-4" id="sendTask">
+            <span>Подать заявку</span>
+        </button>
+
+
     </div>
 
     <div class="landing-photo w100 d-flex justify-content-center align-items-center flex-column">
@@ -80,10 +103,10 @@
     <!-- <i class="fab fa-apple fa-8x text-danger"></i> -->
     <div class="products">
         <div class="row">
-            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-car">Автомобили<i class="ml-5 d-block fas fa-car fa-3x"></i></span></div>
-            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-fish">Продукты<i class="ml-5 d-block fas fa-utensils fa-3x"></i></span></div>
-            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-fish">Камеры<i class="ml-5 d-block fas fa-camera fa-3x"></i></span></div>
-            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-block">Ноутбуки<i class="ml-5 d-block fas fa-laptop fa-3x"></i></span></div>
+            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-car d-flex justify-content-center flex-column">Автомобили<i class="ml-5 d-block fas fa-car fa-3x"></i></span></div>
+            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-fish d-flex justify-content-center flex-column">Продукты<i class="ml-5 d-block fas fa-utensils fa-3x"></i></span></div>
+            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-flex justify-content-center flex-column">Камеры<i class="ml-5 d-block fas fa-camera fa-3x "></i></span></div>
+            <div class="col-12 col-lg-3 col-md-6 col-sm-12 col-xs-12 mt-5 d-flex justify-content-center" ><span class="fa-2x text-danger d-block d-flex justify-content-center flex-column text-align-center">Ноутбуки<i class="ml-5 d-block fas fa-laptop fa-3x"></i></span></div>
     </div>
 </div>
 
