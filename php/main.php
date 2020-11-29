@@ -8,19 +8,23 @@
 
     $answer = $pdo->exec($query_get);*/
     $query_get = 'SELECT `telephone` FROM `info` WHERE `id`=1';
-    $worker = $pdo->prepare($query_get);
-    $worker->execute();
 
 
-    $data =$worker->fetch();
-    echo $data[0];
-    foreach ($data as $item) {
-        echo $item;
+
+
+
+
+    function getdata($SQL){
+        $worker = $pdo->prepare($SQL);
+        $worker->execute();
+
+        $data =$worker->fetchAll();
+        return $data;
     }
 
 
-
-
+    $data = getdata($query_get);
+    echo $data;
 
 
 
