@@ -19,24 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6685a3f6-2321-4697-848c-ceb82905ee29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/OutInfo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/bdWorker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/bdWorking.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/getInfo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/sign.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/workingWithVariables.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vatchStaff.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/connect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/main.php" afterDir="false" />
-    </list>
+    <list default="true" id="6685a3f6-2321-4697-848c-ceb82905ee29" name="Default Changelist" comment="card boostrap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,8 +76,16 @@
       <workItem from="1606643685454" duration="82000" />
       <workItem from="1606652080060" duration="1071000" />
       <workItem from="1606653283840" duration="8518000" />
-      <workItem from="1606669767966" duration="1257000" />
+      <workItem from="1606669767966" duration="1630000" />
     </task>
+    <task id="LOCAL-00001" summary="card boostrap">
+      <created>1606671275506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606671275506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +102,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="card boostrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="card boostrap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604832812746">
