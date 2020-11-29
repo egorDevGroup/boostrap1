@@ -7,8 +7,8 @@
 .landing-photo{
 
     width: 100vw;
-    height: 95wh;
-    background-image: url("img/img.png");
+    height: 95vh;
+    background-image: url("../img/img.png");
 }
 
 .center-label{
