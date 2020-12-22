@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< HEAD
 try {
     $pdo = new PDO('mysql:host=localhost;dbname=info', 'root', 'root');
 
@@ -20,5 +21,15 @@ $pdo = connect('root','root');
 
 
 $pdo1=connect('qrth');
+=======
+    try {
+        $pdo = new PDO('mysql:host=localhost;dbname=info', 'root', 'root');
+
+    } catch (Exception $e) {
+        echo $e->getMessage();
+    }
+
+    echo "ok";
+>>>>>>> origin/master
 
 ?>

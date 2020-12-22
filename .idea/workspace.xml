@@ -19,6 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6685a3f6-2321-4697-848c-ceb82905ee29" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
@@ -30,6 +31,9 @@
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/main.php" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6685a3f6-2321-4697-848c-ceb82905ee29" name="Default Changelist" comment="card boostrap" />
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +64,20 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../boostrap1" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> origin/master
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
+=======
+      <recent name="C:\OpenServer\domains\localhost\boostrap1" />
+>>>>>>> origin/master
       <recent name="C:\OpenServer\domains\localhost\boostrap1\css" />
       <recent name="C:\OpenServer\domains\localhost\boostrap1\php" />
       <recent name="C:\OpenServer\domains\localhost\boostrap1\js" />
@@ -81,9 +93,25 @@
       <updated>1604827571086</updated>
       <workItem from="1604827572352" duration="7085000" />
       <workItem from="1605425460079" duration="7260000" />
+<<<<<<< HEAD
       <workItem from="1605784097350" duration="1639000" />
       <workItem from="1606033975301" duration="36000" />
+=======
+      <workItem from="1606034017200" duration="4289000" />
+      <workItem from="1606643685454" duration="82000" />
+      <workItem from="1606652080060" duration="1071000" />
+      <workItem from="1606653283840" duration="8518000" />
+      <workItem from="1606669767966" duration="1630000" />
     </task>
+    <task id="LOCAL-00001" summary="card boostrap">
+      <created>1606671275506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606671275506</updated>
+>>>>>>> origin/master
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +128,13 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+<<<<<<< HEAD
+=======
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="card boostrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="card boostrap" />
+>>>>>>> origin/master
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604832812746">
@@ -110,6 +145,7 @@
       <screen x="0" y="0" width="1280" height="920" />
     </state>
     <state x="405" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.920@0.0.1280.920" timestamp="1604829145966" />
+<<<<<<< HEAD
     <state x="421" y="215" key="FileChooserDialogImpl" timestamp="1606034012372">
       <screen x="0" y="0" width="1280" height="920" />
     </state>
@@ -137,6 +173,35 @@
     <state x="149" y="105" key="SettingsEditor" timestamp="1605425519566">
       <screen x="0" y="0" width="1280" height="920" />
     </state>
+=======
+    <state width="845" height="139" key="GridCell.Tab.0.bottom" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.bottom/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state width="845" height="139" key="GridCell.Tab.0.center" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.center/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state width="845" height="139" key="GridCell.Tab.0.left" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.left/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state width="845" height="139" key="GridCell.Tab.0.right" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.right/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state x="458" y="172" key="NewPhpClassDialog" timestamp="1606659619373">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="458" y="172" key="NewPhpClassDialog/0.0.1280.920@0.0.1280.920" timestamp="1606659619373" />
+    <state x="476" y="383" key="NewPhpFileDialog" timestamp="1606657903146">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="476" y="383" key="NewPhpFileDialog/0.0.1280.920@0.0.1280.920" timestamp="1606657903146" />
+    <state x="149" y="105" key="SettingsEditor" timestamp="1605425519566">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+>>>>>>> origin/master
     <state x="149" y="105" key="SettingsEditor/0.0.1280.920@0.0.1280.920" timestamp="1605425519566" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1604832908752">
       <screen x="0" y="0" width="1280" height="920" />
@@ -150,9 +215,16 @@
       <screen x="0" y="0" width="1280" height="920" />
     </state>
     <state x="297" y="211" key="run.anything.popup/0.0.1280.920@0.0.1280.920" timestamp="1605428999734" />
+<<<<<<< HEAD
     <state x="303" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1605428991730">
       <screen x="0" y="0" width="1280" height="920" />
     </state>
     <state x="303" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1280.920@0.0.1280.920" timestamp="1605428991730" />
+=======
+    <state x="303" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1606658063939">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="303" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1280.920@0.0.1280.920" timestamp="1606658063939" />
+>>>>>>> origin/master
   </component>
 </project>

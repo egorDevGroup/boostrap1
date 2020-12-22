@@ -1,7 +1,11 @@
 <?php
 include 'header.php';
 ?>
+<<<<<<< HEAD
 <body class="w100">
+=======
+<body class="w100" onload="loading()">
+>>>>>>> origin/master
 
 
 <nav class="navbar navbar-expand-lg d-flex justify-content-between bg-dark container-fluid">
@@ -53,6 +57,26 @@ include 'header.php';
             <div class="col-12 col-xs-12 col-sm-6 col-md-4 col-lg-2">6</div>
         </div>
     </div>-->
+<<<<<<< HEAD
+=======
+
+
+<div id="resp"></div>
+<span id="placeValue"></span>
+<script>
+    var var1 = "old value";
+    document.getElementById("placeValue").innerText = var1;
+
+</script>
+<input  type="button" id="sendResp" value="Отправить переменную">
+
+
+
+
+
+
+
+>>>>>>> origin/master
 <div class="callback w-100 h-50 p-4">
     <div id="response">
 

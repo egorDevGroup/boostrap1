@@ -9,6 +9,10 @@ $(document).ready(function () {
             alert(e);
         }
     })
+<<<<<<< HEAD
+=======
+});
+>>>>>>> origin/master
 
     var tbname = 'users';
 
@@ -26,4 +30,36 @@ $(document).ready(function () {
         }
     })
 
+<<<<<<< HEAD
 })
+=======
+
+function  foo(){
+
+}
+var var1;
+function  loading() {
+    document.getElementById("sendResp").onclick = function () {
+
+        try {
+
+
+            $('#resp').load('php/getInfo.php', { 'var': var1 });
+
+
+
+
+                alert(var1);
+
+
+
+
+        } catch (e) {
+            alert(e);
+        }
+    };
+
+    }
+
+
+>>>>>>> origin/master

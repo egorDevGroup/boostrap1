@@ -14,6 +14,7 @@
 
 
 
+<<<<<<< HEAD:php/main.php
     function getdata($SQL){
         $worker = $pdo->prepare($SQL);
         $worker->execute();
@@ -29,4 +30,6 @@
 
 
 
+=======
+>>>>>>> origin/master:main.php
 ?>
